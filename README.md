@@ -2,7 +2,7 @@
 ## Meu perfil
  Cursando o 2º semestre de Engenharia de Software na Descomplica UniAmérica. Estou em busca de um estágio na área de desenvolvimento web. Mais do que o cargo, o que realmente importa pra mim é ter a chance de colocar em prática o que venho aprendendo, ganhar experiência de verdade e continuar evoluindo na área.
 
-![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroHenrique&show_icons=true&theme=chartreuse-dark)
+![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroooliveira25&show_icons=true&theme=chartreuse-dark)
 ### Tecnologias do meu dia a dia 
 
 <div style= "display: inline_block"><br/>
